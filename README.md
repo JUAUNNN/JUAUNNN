@@ -9,7 +9,7 @@ Estou estudando 5° semestre de Ciências da Computação, e aprendendo sobre An
 Busco uma oportunidade para me ingressar na área, e assim me desenvolver mais.
 Curiosidades 😆 Gosto de instrumentos musicais e possuo uma guitarra🎸, sempre gostei de jogos de estrategias ♟️
 📩 Se quiser entra em contato para conversammos, este é meu Linkedin:
----www.linkedin.com/in/joão-victor-rodrigues-656bb3128---
+    www.linkedin.com/in/joão-victor-rodrigues-656bb3128
 
 <!---
 JUAUNNN/JUAUNNN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
