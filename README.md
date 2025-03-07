@@ -1,7 +1,7 @@
 Olá 🖖 sou o João Victor, um desenvolvedor iniciante como o objetivo de me tornar capaz de apresentar soluções para qualqueer desafio.
 Nativo do Brasil 🇧🇷, e com um conhecimento básico na lingua inglêsa 😅 
-Tenho conhecimento front-end em HTML, CSS, Javascript. 
-No back-end sei o básico de Python,C#, C++, PHP e sou intermediário em Java. 
+Tenho conhecimento front-end em HTML, CSS, Javascript e Angular. 
+No back-end sei o básico de Python,C#, PHP, Golang e sou intermediário em Java. 
 Já sei usar o SpringBoot e suas ferramentas, podendo criar APIs com conexão com Banco de dados, usando Hibernate e o Flyway.
 Tenho conhecimento intermediário em PostGreSQL e MySQL.
 No momento estou criando alguns projetos para mostrar meu conhecimento 😁
