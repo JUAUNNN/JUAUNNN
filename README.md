@@ -7,7 +7,7 @@ Tenho conhecimento com banco de daods relacionais e não relacionais.
 No momento estou criando alguns projetos para mostrar meu conhecimento 😁
 Estou estudando 5° semestre de Ciências da Computação, e aprendendo sobre Angular e API REST.
 Busco uma oportunidade para me ingressar na área, e assim me desenvolver mais.
-Curiosidades: 😆 Gosto de instrumentos musicais e possuo uma guitarra🎸, sempre gostei de jogos de estrategias ♟️
+Curiosidades:  Gosto de instrumentos musicais e possuo uma guitarra🎸, sempre gostei de jogos de estrategias ♟️
 📩 Se quiser entra em contato para conversammos, este é meu Linkedin:
     www.linkedin.com/in/joão-victor-rodrigues-656bb3128
 
