@@ -5,7 +5,7 @@ No back-end sei o básico de Python,C#, PHP, Golang e sou intermediário em Java
 Já sei usar o Spring e suas ferramentas, podendo criar APIs com conexão com Banco de dados, usando Hibernate e o Flyway.
 Tenho conhecimento com banco de daods relacionais e não relacionais.
 No momento estou criando alguns projetos para mostrar meu conhecimento 😁
-Estou estudando 6° semestre de Ciências da Computação, e aprendendo sobre Angular e API REST.
+Estou estudando 6° semestre de Ciências da Computação, e aprendendo sobre API REST.
 Busco uma oportunidade para me ingressar na área, e assim me desenvolver mais.
 Curiosidades:  Gosto de instrumentos musicais e possuo uma guitarra🎸, sempre gostei de jogos de estrategias ♟
 📩 Se quiser entra em contato para conversammos, este é meu Linkedin:
