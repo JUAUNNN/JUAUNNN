@@ -1,5 +1,5 @@
 Olá 🖖 sou o João Victor, um desenvolvedor fullstack iniciante com o objetivo de me tornar capaz de apresentar soluções para qualquer desafio.
-Nativo do Brasil 🇧🇷, e com um conhecimento básico na lingua inglêsa 😅 
+Nativo do Brasil, e com um conhecimento básico na lingua inglêsa 😅 
 Tenho conhecimento front-end em HTML, CSS, Javascript e Angular. 
 No back-end sei o básico de Python,C#, PHP, Golang e sou intermediário em Java e é a que mais estou focado no momento. 
 Já sei usar o Spring e suas ferramentas, podendo criar APIs com conexão com Banco de dados, usando Hibernate e o Flyway.
