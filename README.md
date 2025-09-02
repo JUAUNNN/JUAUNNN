@@ -8,7 +8,7 @@ Tenho alguns projetos de APIs, vale a pena conferir 😁
 Tenho conhecimento com banco de dados relacionais(MySQL/PostgreSQL), não relacionais(MongoDB) e com Docker.
 Estou me especializando em microsserviços, e cursando o 6° semestre de Ciências da Computação.
 Busco uma oportunidade para me ingressar na área, e assim me desenvolver mais.
-Curiosidades:  Gosto de instrumentos musicais e possuo uma guitarra🎸, sempre gostei de jogos de estrategias ♟
+Curiosidades: Gosto de instrumentos musicais e possuo uma guitarra🎸, sempre gostei de jogos de estrategias ♟
 Se quiser dar uma olhada no meu Linkedin -> www.linkedin.com/in/joão-victor-rodrigues-656bb3128, lá posto meus certificados
 e se quiser entre em contato pelo e-mail: 📩 joaojv740candi@gmail.com.
 
