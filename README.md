@@ -2,7 +2,7 @@ Olá 🖖 sou o João Victor, um desenvolvedor Java/Kotlin iniciante com o objet
 Nativo do Brasil, e com um conhecimento básico na pronuncia e escrita lingua inglêsa 😅, mas o inglês técnico é intermediário,  
 tenho conhecimento básico front-end em HTML, CSS, Javascript e Angular.
 No back-end sei o básico de Python, C#, PHP, e sou intermediário em Java☕ e é a que me dedico a 2 anos, 
-usando com mais frequência IDE Intellij, mas conheço o Eclipse e VisualStudio.
+usando com mais frequência IDE Intellij, mas conheço o Eclipse, VisualStudio e AndroidStudio.
 Sou capaz de criar APIs e APIs REST, criando conexão com banco de dados usando o framework Hibernate ou por migration. 
 Tenho alguns projetos de APIs, vale a pena conferir 😁
 Tenho conhecimento com banco de dados relacionais(MySQL/PostgreSQL), não relacionais(MongoDB) e com Docker.
